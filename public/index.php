@@ -13,7 +13,7 @@
             left: 0;
             width: 100%;
             height: 100vh;
-            background: url('https://source.unsplash.com/1600x900/?nature,landscape') no-repeat center center;
+            background: url('annie-spratt-cVEOh_JJmEE-unsplash.jpg') no-repeat center center;
             background-size: cover;
         }
 
@@ -49,7 +49,7 @@
     <div class="background"></div>
     <div class="d-flex vh-100 align-items-center justify-content-center">
         <div class="content">
-            <h1 class="display-4">We Will Be Right Back</h1>
+            <h1 class="display-4">We i'll Be Right Back</h1>
         </div>
     </div>
 </body>
