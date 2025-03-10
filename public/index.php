@@ -49,7 +49,7 @@
     <div class="background"></div>
     <div class="d-flex vh-100 align-items-center justify-content-center">
         <div class="content">
-            <h1>Lucrisdofoundation</h1>
+            <h1>Lucrisdo Foundation</h1>
             <h2 class="display-4">We 'll Be Right Back</h2>
         </div>
     </div>
